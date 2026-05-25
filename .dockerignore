@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# Storage
+storage/
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Tests
+tests/
+.pytest_cache/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+docs/
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
